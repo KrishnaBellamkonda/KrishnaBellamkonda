@@ -1,3 +1,4 @@
+<link src"./index.css" rel="stylesheet"></link>
 <section class="banner-page container">
     <article class="container">
         <h2>Happy times!</h2>
