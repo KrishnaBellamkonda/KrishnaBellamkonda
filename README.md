@@ -43,12 +43,10 @@
                 <a href="#"><button>GitHub</button></a>
             </div>
         </div>
-
         <div class="project-visual">
             <img src="./gifs/TextSummarizer.gif" alt="text summarizer gif">
         </div>
     </div>
-
     <div class="project container">
         <div class="project-desc">
             <h3>Wisdom of Crowds Simulation</h3>
@@ -66,10 +64,7 @@
             <img src="./gifs/wisdom_of_crowds_simulation.gif" alt="wisdom of crowds gif">
         </div>
     </div>
-
-
 </section>
-
 <section class="other-projects container">
     <h2 class="title">Other Interesting Projects</h2>
     <ul>
@@ -96,49 +91,35 @@
         </a>
     </ul>
 </section>
-
 <details class="news-section container">
     <summary class='title'> Bored of my projects? Here's whats going around the
         world!
     </summary>
-
     <img id="news-section-svg" src='https://global-news-markdown-app.vercel.app/' width="100%" height="500px" />
 </details>
-
 <section class="skills-section container">
     <h2 class='title'>Skills</h2>
     <ul class="skills">
-
         <div class="front-end">
             <h3>Front-end</h3>
             <ul class="skills-list">
-
                 <li>
                     React
-
                 </li>
 
                 <li>
                     JavaScript
-
                 </li>
 
                 <li>
                     HTML
-
                 </li>
 
                 <li>
                     Sass
-
                 </li>
-
-
             </ul>
-
-
         </div>
-
         <div class="data-science">
             <h3>Data Science</h3>
             <ul class="skills-list">
@@ -150,7 +131,6 @@
                 <li>Matplotlib & Seaborn</li>
             </ul>
         </div>
-
         <div class="ai-ml">
             <h3>A.I / ML</h3>
             <ul class="skills-list">
@@ -162,11 +142,8 @@
                 <li>Pandas</li>
             </ul>
         </div>
-
-
     </ul>
 </section>
-
 <section class="connect-with-me container">
     <h2 class='title'>Connect with me</h2>
     <ul class="connections-list">
