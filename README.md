@@ -1,33 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" style="padding:0;margin:0;box-sizing:border-box;font-family:'Montserrat', sans-serif;font-size:16px;--clr-primary:#3439bd;">
-<head style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<meta charset="UTF-8" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<meta http-equiv="X-UA-Compatible" content="IE=edge" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<meta name="viewport" content="width=device-width, initial-scale=1.0" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<link rel="stylesheet" href="./index.css" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<title style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">Github Profile</title>
-<link rel="preconnect" href="https://fonts.googleapis.com" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap" rel="stylesheet" style="padding: 0;
-    margin: 0;
-    box-sizing: border-box;">
-</head>
 <body style="padding: 0;
     margin: 0;
     box-sizing: border-box;">
@@ -36,17 +8,16 @@
                 The weather here is a bit <span style="padding:0;margin:0;box-sizing:border-box;color:var(--clr-primary);">Data Sciency</span> - chances of AI/ML -
                 but has a pleasant <span style="padding:0;margin:0;box-sizing:border-box;color:var(--clr-primary);">Front-end</span> to it.
             </h2>
-        </article><article class="container" style="padding:0;margin:0 auto;box-sizing:border-box;font-size:1.8rem;line-height:1.2em;width:clamp(200px, 90%, 700px);letter-spacing:0.1em;"><h2 style="padding:0;margin:0;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;">Peek into my work here!</h2>
-        </article></section><section class="projects container" style="padding:0;margin:0 auto;box-sizing:border-box;padding-block:3rem;border-block-end:none;display:grid;width:clamp(200px, 90%, 700px);"><h2 class="title container" style="padding:0;margin:0 auto;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;color:var(--clr-primary);width:clamp(200px, 90%, 700px);text-transform:uppercase;letter-spacing:0.1em;">Projects</h2>
- 
-    <div class="project container" style="padding:0;margin:0 auto;box-sizing:border-box;display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:1rem;padding-block:2rem;border-block-end:1px solid rgb(240, 240, 240);width:clamp(200px, 90%, 700px);">
-        <div class="project-desc" style="padding:0;margin:0;box-sizing:border-box;display:flex;flex-direction:column;">
-            <h3 style="padding:0;margin:0;box-sizing:border-box;font-size:1.2rem;font-weight:600;text-transform:uppercase;letter-spacing:0.1em;padding-block-end:0.5rem;">EconoMetrics</h3>
-            <article style="padding:0;margin:0;box-sizing:border-box;font-size:1rem;line-height:1.6em;width:clamp(300px, 50%, 500px);padding-block-end:1em;">
+</article><article class="container" style="padding:0;margin:0 auto;box-sizing:border-box;font-size:1.8rem;line-height:1.2em;width:clamp(200px, 90%, 700px);letter-spacing:0.1em;"><h2 style="padding:0;margin:0;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;">Peek into my work here!</h2>
+</article></section><section class="projects container" style="padding:0;margin:0 auto;box-sizing:border-box;padding-block:3rem;border-block-end:none;display:grid;width:clamp(200px, 90%, 700px);"><h2 class="title container" style="padding:0;margin:0 auto;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;color:var(--clr-primary);width:clamp(200px, 90%, 700px);text-transform:uppercase;letter-spacing:0.1em;">Projects</h2>
+<div class="project container" style="padding:0;margin:0 auto;box-sizing:border-box;display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:1rem;padding-block:2rem;border-block-end:1px solid rgb(240, 240, 240);width:clamp(200px, 90%, 700px);">
+<div class="project-desc" style="padding:0;margin:0;box-sizing:border-box;display:flex;flex-direction:column;">
+<h3 style="padding:0;margin:0;box-sizing:border-box;font-size:1.2rem;font-weight:600;text-transform:uppercase;letter-spacing:0.1em;padding-block-end:0.5rem;">EconoMetrics</h3>
+<article style="padding:0;margin:0;box-sizing:border-box;font-size:1rem;line-height:1.6em;width:clamp(300px, 50%, 500px);padding-block-end:1em;">
                 This is a web application that visualizes up-to-date
                 information about economies around the world.
             </article><div class="buttons" style="padding:0;margin:0;box-sizing:border-box;display:flex;gap:0.5rem;">
-                <a href="#" style="padding: 0;
+<a href="#" style="padding: 0;
     margin: 0;
     box-sizing: border-box;"><button style="padding:0.25rem;margin:0;box-sizing:border-box;font-family:inherit;background-color:white;border:0.5px solid var(--clr-primary);color:var(--clr-primary);">View Live</button></a>
                 <a href="#" style="padding: 0;
