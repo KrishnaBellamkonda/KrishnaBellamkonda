@@ -31,7 +31,6 @@
             <img id="econometrics-visual" src="./gifs/EconoMetrics.gif" alt="econometrics gif">
         </div>
     </div>
-
     <div class="project container">
         <div class="project-desc">
             <h3>Text Summarizer</h3>
