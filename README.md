@@ -119,14 +119,24 @@
 
 
 ## Connect with me
+<table style="display:flex;">
+<tr>  
+<td>
 <a href="https://github.com/KrishnaBellamkonda">
-
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px"></img>
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
-
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px"></img>
 </a>
-        
+</td>
+</tr>
+
+</table>  
 
 <!--
 **KrishnaBellamkonda/KrishnaBellamkonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
