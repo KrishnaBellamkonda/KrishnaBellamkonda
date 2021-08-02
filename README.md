@@ -1,6 +1,5 @@
 
 
-<body>
     
    <section class="banner-page container">
 
@@ -201,8 +200,6 @@
             </a>
         </ul>
    </section>
-
-</body>
 
 
 
