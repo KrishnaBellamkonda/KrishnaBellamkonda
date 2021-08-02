@@ -101,18 +101,9 @@
         <div class="front-end">
             <h3>Front-end</h3>
             <ul class="skills-list">
-                <li>
-                    React
-                </li>
-
-                <li>
-                    JavaScript
-                </li>
-
-                <li>
-                    HTML
-                </li>
-
+                <li>React</li>
+                <li>JavaScript</li>
+                <li>HTML</li>
                 <li>
                     Sass
                 </li>
