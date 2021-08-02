@@ -1,9 +1,7 @@
 <section class="banner-page container">
-
     <article class="container">
         <h2>Happy times!</h2>
     </article>
-
     <article class="container">
         <h2>Hi! I am <span>Krishna Bellamkonda</span>.
             The weather here is a bit <span>Data Sciency</span> - chances of AI/ML -
@@ -13,7 +11,6 @@
     <article class="container">
         <h2>Peek into my work here!</h2>
     </article>
-
 </section>
 
 <section class="projects container">
