@@ -14,9 +14,7 @@
 </section>
 
 <section class="projects container">
-
     <h2 class="title container">Projects</h2>
-
     <div class="project container">
         <div class="project-desc">
             <h3>EconoMetrics</h3>
@@ -29,7 +27,6 @@
                 <a href="#"><button>GitHub</button></a>
             </div>
         </div>
-
         <div class="project-visual">
             <img id="econometrics-visual" src="./gifs/EconoMetrics.gif" alt="econometrics gif">
         </div>
