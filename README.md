@@ -2,7 +2,7 @@
 
 ### Hi! I am Krishna Bellamkonda. The weather here is a bit Data Sciency - chances of AI/ML - but has a pleasant Front-end to it.👋
 ### Peek into my work here!
-### [Here is a more well formatted profile](https://krishnabellamkonda.github.io/KrishnaBellamkonda/)
+### [View this profile in a website](https://krishnabellamkonda.github.io/KrishnaBellamkonda/)
 
 
 ## Projects 
