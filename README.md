@@ -58,7 +58,6 @@
                 <a href="#"><button>GitHub</button></a>
             </div>
         </div>
-
         <div class="project-visual container">
             <img src="./gifs/wisdom_of_crowds_simulation.gif" alt="wisdom of crowds gif">
         </div>
