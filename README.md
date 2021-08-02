@@ -113,7 +113,7 @@
 
 
 <h2>Take a look at whats going</h2>
-<img src="https://global-news-markdown-app-fhufl2l1x-krishnabellamkonda.vercel.app/?bgColor=rgb(13,%2017,%2023)&headingColor=rgb(221,%20255,%2028)&textColor=rgb(196,%20196,%20196)&borderColor=rgb(60,%2060,%2060)" width="100%" height="100%" />
+<img src="https://global-news-markdown-app-fhufl2l1x-krishnabellamkonda.vercel.app/?bgColor=rgb(13,%2017,%2023)&headingColor=rgb(221,%20255,%2028)&textColor=rgb(196,%20196,%20196)&borderColor=rgb(60,%2060,%2060)" width="100%" height="500px" />
 
 
 
