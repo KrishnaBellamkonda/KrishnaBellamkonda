@@ -96,9 +96,7 @@
             <img src="./gifs/wisdom_of_crowds_simulation.gif" alt="wisdom of crowds gif" style="padding:0;margin:0;box-sizing:border-box;width:100%;height:100%;object-fit:cover;">
 </div>
     </div>
- 
- 
-    </section><section class="other-projects container" style="padding:0;margin:0 auto;box-sizing:border-box;padding-block:3rem;border-block-end:1px solid rgb(240, 240, 240);width:clamp(200px, 90%, 700px);"><h2 class="title" style="padding:0;margin:0;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;color:var(--clr-primary);text-transform:uppercase;letter-spacing:0.1em;">Other Interesting Projects</h2>
+</section><section class="other-projects container" style="padding:0;margin:0 auto;box-sizing:border-box;padding-block:3rem;border-block-end:1px solid rgb(240, 240, 240);width:clamp(200px, 90%, 700px);"><h2 class="title" style="padding:0;margin:0;box-sizing:border-box;font-size:2rem;line-height:1.2em;font-weight:800;padding-block-end:1rem;color:var(--clr-primary);text-transform:uppercase;letter-spacing:0.1em;">Other Interesting Projects</h2>
     <ul style="padding:0;margin:0;box-sizing:border-box;list-style:none;display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:1rem;">
 <a href="#" style="padding:0;margin:0;box-sizing:border-box;text-decoration:none;color:black;">
             <li style="padding: 0;
