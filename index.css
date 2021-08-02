@@ -1,0 +1,223 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Typography*/
+html, :root {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+h2, summary {
+    font-size: 2rem;
+    line-height: 1.2em;
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+article {
+    font-size: 1rem;
+    line-height: 1.6em;
+    width: clamp(300px, 50%, 500px);
+}
+
+/*Colors*/
+html, :root {
+    --clr-primary:#3439bd;
+}
+
+
+/*Section*/
+section {
+    padding-block: 3rem;
+    border-block-end: 1px solid rgb(240, 240, 240);
+}
+
+details {
+    border-block-end: 1px solid rgb(240, 240, 240);
+}
+
+/*Span*/
+span {
+    color: var(--clr-primary);
+}
+
+.title {
+    color: var(--clr-primary);
+}
+
+
+/*Banner page*/
+.banner-page article {
+    font-size: 1.8rem;
+    line-height: 1.2em;
+    letter-spacing: 0.1em;
+}
+
+/* Project element*/
+.projects {
+    display: grid;
+    border-block-end: none;
+}
+
+.project {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap:1rem;
+
+    padding-block: 2rem;
+    border-block-end: 1px solid rgb(240, 240, 240);
+
+}
+
+.project-desc {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-desc h3 {
+    padding-block-end: 0.5rem;
+}
+
+.project-desc article {
+    padding-block-end: 1em;
+}
+
+.project-visual {
+    max-height: 300px;
+}
+
+.buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+button {
+    font-family: inherit;
+    padding: 0.25rem;
+    background-color: white;
+    border: 0.5px solid var(--clr-primary);
+    color: var(--clr-primary);
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#econometrics-visual {
+    width: clamp(100px, 50%, 200px);
+}
+
+/*Other projects*/
+.other-projects summary {
+    padding-block-end: 2rem;
+}
+
+.other-projects ul{
+    list-style: none;
+
+}
+
+.other-projects a {
+    text-decoration: none;
+    color: var(--clr-primary);
+}
+
+.other-projects ul{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    
+}
+
+.other-projects a {
+    color: black;
+}
+
+/* News Section */
+#news-section-svg {
+    width: 100%;
+    height: 500px;
+
+
+}
+
+/*Skills section */
+
+.skills {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 1rem;
+    
+}
+
+.skills-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.skills-list li {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills div h3 {
+    padding-block-end: 0.5rem;
+}
+/* Sections */
+
+section, details {
+    padding-block: 3rem;
+}
+
+section h2 {
+    padding-block-end: 1rem;
+}
+
+.banner-page {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+
+/* Connect with me */
+
+.connections-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+svg {
+    width: 35px;
+    height: 35px;
+}
+
+/*Utility*/
+.container {
+    width: clamp(200px, 90%, 700px);
+    margin: 0 auto;
+
+}
+
+/*TItle*/
+.title {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/*Buttons*/
