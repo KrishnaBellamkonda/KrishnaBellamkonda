@@ -120,13 +120,13 @@
 
 ## Connect with me
 
-<a href="https://github.com/KrishnaBellamkonda">
+<a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px"></img>
 </a>
 
 
 
-<a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
+<a href="https://github.com/KrishnaBellamkonda">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px"></img>
 </a>
 
