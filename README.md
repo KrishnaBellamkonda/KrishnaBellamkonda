@@ -124,14 +124,21 @@
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
+  <p>Linkedin</p>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px" fill="gray"></img>
 </a>
 
 
 
 <a href="https://github.com/KrishnaBellamkonda">
+  <p>GitHub</p>
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px" fill="white"></img>
 </a>
+
+<a href="https://krishnabellamkonda.github.io/krishna-bellamkonda-portfolio/">
+  <p>Portfolio Website</p>
+</a>
+
 
 
 <!--
