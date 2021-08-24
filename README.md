@@ -130,7 +130,7 @@
 
 
 <a href="https://github.com/KrishnaBellamkonda">
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px" fill="gray"></img>
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px" fill="white"></img>
 </a>
 
 
