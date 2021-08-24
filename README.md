@@ -116,7 +116,7 @@
 
 
 <h2>Take a look at whats going</h2>
-<p>This news section is dynamically updated every two hours</p>
+<p>This news section is dynamically updated every six hours so that you are up-to-date with the news :)</p>
 <img src="https://global-news-markdown-app-fhufl2l1x-krishnabellamkonda.vercel.app/?bgColor=rgb(13,%2017,%2023)&headingColor=rgb(221,%20255,%2028)&textColor=rgb(196,%20196,%20196)&borderColor=rgb(60,%2060,%2060)" width="100%" height="500px" />
 
 
@@ -124,13 +124,13 @@
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px"></img>
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px" fill="gray"></img>
 </a>
 
 
 
 <a href="https://github.com/KrishnaBellamkonda">
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px"></img>
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="35px" height="35px" fill="gray"></img>
 </a>
 
 
