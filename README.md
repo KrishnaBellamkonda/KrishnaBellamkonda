@@ -1,4 +1,4 @@
-<img src="pdfs/Banner_KrishnaBellamkonda.png"></img>
+<img src="./Banner_KrishnaBellamkonda.png"></img>
 
 ### Hi! I am Krishna Bellamkonda. The weather here is a bit Data Sciency - chances of AI/ML - but has a pleasant Front-end to it.👋
 
