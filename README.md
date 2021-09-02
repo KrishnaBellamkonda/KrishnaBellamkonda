@@ -125,7 +125,7 @@
 
 <a href="https://www.linkedin.com/in/krishna-bellamkonda-a6a422208/">
   <p>Linkedin</p>
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px" style="fill:gray;"></img>](url)
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="35px" height="35px" style="fill:white;"></img>
 </a>
 
 
