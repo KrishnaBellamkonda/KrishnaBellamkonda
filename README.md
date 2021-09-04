@@ -7,6 +7,8 @@
 ### Peek into my work here!
 ### [View this profile in a website](https://krishnabellamkonda.github.io/KrishnaBellamkonda/)
 
+[![Krishna Bellamkonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Projects 
 <table>
