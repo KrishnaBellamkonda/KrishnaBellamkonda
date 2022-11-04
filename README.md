@@ -2,6 +2,8 @@
 
 ### Hi! I am Krishna Bellamkonda. The weather here is a bit Data Sciency - chances of AI/ML - but has a pleasant Front-end to it.👋
 
+### Check out an app that I've developed - [Foresight](https://bit.ly/3N0vGT0) - a study productvity tool 
+
 ### [Personal Website](https://krishnabellamkonda.github.io/krishna-bellamkonda-portfolio/)
 
 ### Peek into my work here!
